@@ -1,10 +1,10 @@
-package Review_Class;
+package com.Review.Class01;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class FBHomweork {
+public class FbHomework {
     public static void main(String[] args) throws InterruptedException {
 
         //       setting up the webDriver

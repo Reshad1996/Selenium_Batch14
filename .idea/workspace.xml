@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc450cd7-aa10-45ae-ad1a-7704d34c54c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Class05/CheckBoxDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Review_Class/FBHomweork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Review_Class/Homework2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class05/HMW02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class05/HMW02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +42,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HMW02">
-    <configuration name="CheckBoxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.Class05.CheckBoxDemo" />
+  <component name="RunManager" selected="Application.HMW01_Calendar">
+    <configuration name="Calander" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.Class10.Calander" />
       <module name="Selenium_Batch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Syntax.Class05.*" />
+          <option name="PATTERN" value="com.Syntax.Class10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DropDownDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.Class05.DropDownDemo" />
+    <configuration name="HMW01_Calendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.Class10.HMW01_Calendar" />
       <module name="Selenium_Batch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Syntax.Class05.*" />
+          <option name="PATTERN" value="com.Syntax.Class10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HMW01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.Class05.HMW01" />
+    <configuration name="WaitReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Review.Class04.WaitReview" />
       <module name="Selenium_Batch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Syntax.Class05.*" />
+          <option name="PATTERN" value="com.Review.Class04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HMW02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.Class05.HMW02" />
+    <configuration name="calanderPagination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.Class10.calanderPagination" />
       <module name="Selenium_Batch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Syntax.Class05.*" />
+          <option name="PATTERN" value="com.Syntax.Class10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultipleSelectDropDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.Class05.MultipleSelectDropDown" />
+    <configuration name="com.Syntax.Class09.HMW01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.Class09.HMW01" />
       <module name="Selenium_Batch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Syntax.Class05.*" />
+          <option name="PATTERN" value="com.Syntax.Class09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HMW02" />
-        <item itemvalue="Application.HMW01" />
-        <item itemvalue="Application.MultipleSelectDropDown" />
-        <item itemvalue="Application.DropDownDemo" />
-        <item itemvalue="Application.CheckBoxDemo" />
+        <item itemvalue="Application.HMW01_Calendar" />
+        <item itemvalue="Application.Calander" />
+        <item itemvalue="Application.calanderPagination" />
+        <item itemvalue="Application.com.Syntax.Class09.HMW01" />
+        <item itemvalue="Application.WaitReview" />
       </list>
     </recent_temporary>
   </component>

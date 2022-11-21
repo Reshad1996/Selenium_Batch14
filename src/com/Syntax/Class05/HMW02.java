@@ -49,7 +49,7 @@ public class HMW02 {
          driver.findElement(By.xpath("//input[@value='Search']")).click();
          String title = driver.getTitle();
          System.out.println("Title is: "+title);
-         if (title.equalsIgnoreCase("Computers, Tablets & Network Hardware")) {
+         if (title.equalsIgnoreCase("Computers, Laptops, Tablets & Network Hardware for Sale - eBay")) {
              System.out.println("The titled: "+title+" is verfied.");
          } else {
              System.out.println("The titled: "+title+" is not verfied.");
