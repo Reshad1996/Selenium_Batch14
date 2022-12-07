@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cc450cd7-aa10-45ae-ad1a-7704d34c54c1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Batch14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Batch14.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class06/Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class06/Alerts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class06/Frames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class06/Frames.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class06/HMW01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class06/HMW01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class06/Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class06/Notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class10/calanderPagination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class10/calanderPagination.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +40,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.uploadFile">
-    <configuration name="HMW01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.Class11.HMW01" />
+  <component name="RunManager" selected="Application.tables">
+    <configuration name="com.Syntax.Class09.HMW01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.Class09.HMW01" />
       <module name="Selenium_Batch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Syntax.Class11.*" />
+          <option name="PATTERN" value="com.Syntax.Class09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="loginPageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Test.loginPageTest" />
+    <configuration name="loginPageTestWithPageFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Test.loginPageTestWithPageFactory" />
       <module name="Selenium_Batch14" />
       <extension name="coverage">
         <pattern>
@@ -84,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="loginPageTestWithPageFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Test.loginPageTestWithPageFactory" />
+    <configuration name="tables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Review.Class05.tables" />
       <module name="Selenium_Batch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Test.*" />
+          <option name="PATTERN" value="com.Review.Class05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tables" />
+        <item itemvalue="Application.com.Syntax.Class09.HMW01" />
         <item itemvalue="Application.uploadFile" />
         <item itemvalue="Application.jsExecutorScroll" />
         <item itemvalue="Application.loginPageTestWithPageFactory" />
-        <item itemvalue="Application.HMW01" />
-        <item itemvalue="Application.loginPageTest" />
       </list>
     </recent_temporary>
   </component>
