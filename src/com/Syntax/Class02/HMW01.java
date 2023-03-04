@@ -14,7 +14,7 @@ public class HMW01 {
            close the browser
         */
 
-        System.setProperty("webdriver.chrome.driver","Drivers/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","Drivers1/chromedriver.exe");
         WebDriver driver = new ChromeDriver();
 
         driver.get("https://parabank.parasoft.com/parabank/register.htm;jsessionid=B8DD31FF0AFEDBDF4454B27BBC5C05B0%22");

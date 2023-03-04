@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc450cd7-aa10-45ae-ad1a-7704d34c54c1" name="Changes" comment="" />
+    <list default="true" id="cc450cd7-aa10-45ae-ad1a-7704d34c54c1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class01/LaunchingBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class01/LaunchingBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class01/maximizeWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class01/maximizeWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class01/navigateMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class01/navigateMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class02/HMW01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class02/HMW01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class02/HMW02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class02/HMW02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class02/LocatingElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class02/LocatingElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class02/WebOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class02/WebOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class03/HMW01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class03/HMW01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class03/XpathDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class03/XpathDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class04/AdditionalMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class04/AdditionalMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class04/CssSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class04/CssSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class04/HMW01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class04/HMW01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class04/HMW02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class04/HMW02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class04/RadioButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class04/RadioButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class05/CheckBoxDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class05/CheckBoxDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class05/CheckBoxDemo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class05/CheckBoxDemo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class05/DropDownDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class05/DropDownDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class05/GetAllLinks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class05/GetAllLinks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class05/HMW01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class05/HMW01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class05/HMW02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class05/HMW02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class05/MultipleSelectDropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class05/MultipleSelectDropDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class06/Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class06/Alerts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class06/Frames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class06/Frames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class06/HMW01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class06/HMW01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class07/HMW01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class07/HMW01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class07/HMW02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class07/HMW02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class07/HMW03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class07/HMW03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class07/Wait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class07/Wait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class07/implicitWaits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class07/implicitWaits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class07/windowHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class07/windowHandle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class07/windowHandlingAdvance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class07/windowHandlingAdvance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class08/HMW01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class08/HMW01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class08/TableBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class08/TableBasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class08/WaitDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class08/WaitDemo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class08/WaitDemo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class08/WaitDemo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class09/DynamicReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class09/DynamicReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class09/DynamicTables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class09/DynamicTables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class09/HMW01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class09/HMW01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class10/Calander.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class10/Calander.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class10/HMW01_Calendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class10/HMW01_Calendar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class10/calanderPagination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class10/calanderPagination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class11/HMW01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class11/HMW01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class11/KeyUsage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class11/KeyUsage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class11/actionClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class11/actionClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class11/actionClassExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class11/actionClassExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class11/dragAndDrop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class11/dragAndDrop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class11/screenShot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class11/screenShot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class12/jsExecutorHighlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class12/jsExecutorHighlight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/Class12/jsExecutorScroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/Class12/jsExecutorScroll.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +88,20 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.tables">
+  <component name="RunManager" selected="Application.LaunchingBrowser">
+    <configuration name="LaunchingBrowser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.Class01.LaunchingBrowser" />
+      <module name="Selenium_Batch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Syntax.Class01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.Syntax.Class09.HMW01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Syntax.Class09.HMW01" />
       <module name="Selenium_Batch14" />
@@ -57,19 +121,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.Syntax.Class12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="loginPageTestWithPageFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Test.loginPageTestWithPageFactory" />
-      <module name="Selenium_Batch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LaunchingBrowser" />
         <item itemvalue="Application.tables" />
         <item itemvalue="Application.com.Syntax.Class09.HMW01" />
         <item itemvalue="Application.uploadFile" />
         <item itemvalue="Application.jsExecutorScroll" />
-        <item itemvalue="Application.loginPageTestWithPageFactory" />
       </list>
     </recent_temporary>
   </component>

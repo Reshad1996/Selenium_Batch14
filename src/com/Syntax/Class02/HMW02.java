@@ -16,7 +16,7 @@ public class HMW02 {
            close the browser
         */
 
-        System.setProperty("webdriver.chrome.driver","Drivers/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","Drivers1/chromedriver.exe");
         WebDriver driver = new ChromeDriver();
 
         driver.get("https://www.facebook.com/");

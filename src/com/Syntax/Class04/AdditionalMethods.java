@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class AdditionalMethods {
     public static void main(String[] args) {
 
-        System.setProperty("webdriver.chrome.driver","Drivers/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","Drivers1/chromedriver.exe");
         WebDriver driver = new ChromeDriver();
 
         // goto the syntaxProject.com radio button

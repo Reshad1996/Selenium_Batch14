@@ -16,7 +16,7 @@ public class HMW01 {
           quit the browser
         */
 
-        System.setProperty("webdriver.chrome.driver","Drivers/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","Drivers1/chromedriver.exe");
         WebDriver driver = new ChromeDriver();
 
         driver.get("http://syntaxprojects.com/");
